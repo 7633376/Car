@@ -12,6 +12,6 @@ class Fit extends Car{
     //追加でフィット特有の機能など追加できる。
 }
 
-//フィットを作るなら、new Fitよりnew Fitの方が適切。そうなんだ程度でOK。
+//フィットを作るなら、new Carよりnew Fitの方が適切。そうなんだ程度でOK。
 $fit2 = new Fit('私はフィットです'); 
 $fit2->departure();
