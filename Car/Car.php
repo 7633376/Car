@@ -1,5 +1,7 @@
 <?php
 
+namespace Car;
+
  class Car {
 
     //$this->name で上書き出来る ($thisはこのクラスという意味)
